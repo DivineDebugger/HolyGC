@@ -14,7 +14,7 @@ Assuming ```HolyGC.HC``` is in the home directory:
 #include "::Home/HolyGC.HC"
 ```
 
-Which allows you to use the functiosn ```GCMAlloc``` and ```GCClean```.
+Which allows you to use the functions ```GCMAlloc``` and ```GCClean```.
 
 ### Functions
 
